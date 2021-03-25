@@ -13,7 +13,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 2**: De quem é a famosa frase "Penso, logo existo"?
-[ ] Platão
+[x] Platão
 [ ] Galileu Galilei
 [ ] Descartes
 [ ] Sócrates
@@ -31,7 +31,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 4**: Quais o menor e o maior país do mundo?
-[ ] Vaticano e Rússia
+[x] Vaticano e Rússia
 [ ] Nauru e China
 [ ] Mônaco e Canadá
 [ ] Malta e Estados Unidos
@@ -40,7 +40,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 5**: Qual o nome do presidente do Brasil que ficou conhecido como Jango?
-[ ] Jânio Quadros
+[x] Jânio Quadros
 [ ] Jacinto Anjos
 [ ] Getúlio Vargas
 [ ] João Figueiredo
@@ -51,14 +51,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 6**: Qual o grupo em que todas as palavras foram escritas corretamente?
 [ ] Asterístico, beneficiente, meteorologia, entertido
 [ ] Asterisco, beneficente, meteorologia, entretido
-[ ] Asterisco, beneficente, metereologia, entretido
+[x] Asterisco, beneficente, metereologia, entretido
 [ ] Asterístico, beneficiente, metereologia, entretido
 [ ] Asterisco, beneficiente, metereologia, entretido
 
 
 
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
-[ ] O Senhor dos Anéis
+[x] O Senhor dos Anéis
 [ ] Dom Quixote
 [ ] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
@@ -69,7 +69,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[ ] Infinitas
+[x] Infinitas
 [ ] Vinte
 [ ] Milhares
 
@@ -80,12 +80,12 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 109
 [ ] 108
 [ ] 118
-[ ] 92
+[x] 92
 
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[ ] Japão e Serra Leoa
+[x] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -97,7 +97,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Legenda
 [ ] Conto
 [ ] História
-[ ] Lenda
+[x] Lenda
 [ ] Legendário
 
  
@@ -122,7 +122,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 **Questão 14**: Quais as duas datas que são comemoradas em novembro?
 [ ] Independência do Brasil e Dia da Bandeira
-[ ] Proclamação da República e Dia Nacional da Consciência Negra
+[x] Proclamação da República e Dia Nacional da Consciência Negra
 [ ] Dia do Médico e Dia de São Lucas
 [ ] Dia de Finados e Dia Nacional do Livro
 [ ] Black Friday e Dia da árvore
@@ -157,7 +157,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
  
 **Questão 18**: Qual a nacionalidade de Che Guevara?
-[ ] Cubana
+[x] Cubana
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
@@ -168,7 +168,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 19**: Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:
 [ ] Tubarão branco, crocodilo e sucuri
 [ ] Tigre, gavião e orca
-[ ] Hiena, urso branco e lobo cinzento
+[x] Hiena, urso branco e lobo cinzento
 [ ] Orca, onça e tarântula
 [ ] Leão, tubarão branco e urso cinzento
 
@@ -194,7 +194,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 22**: Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?
 [ ] Caipora
-[ ] Saci
+[x] Saci
 [ ] Lobisomem
 [ ] Boitatá
 [ ] Negrinho do Pastoreio
@@ -203,7 +203,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 23**: Em que período da pré-história o fogo foi descoberto?
 [ ] Neolítico
-[ ] Paleolítico
+[x] Paleolítico
 [ ] Idade dos Metais
 [ ] Período da Pedra Polida
 [ ] Idade Média
@@ -215,7 +215,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Artigo, verbo transitivo e verbo intransitivo
 [ ] Fonologia, Morfologia e Sintaxe
 [ ] Hiatos, ditongos e tritongos
-[ ] Substantivo, verbo e preposição
+[x] Substantivo, verbo e preposição
 
  
 
@@ -224,12 +224,12 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Pico Paraná
 [ ] Monte Roraima
 [ ] Pico Maior de Friburgo
-[ ] Pico da Bandeira
+[x] Pico da Bandeira
 
 
 
 **Questão 26**: Qual a velocidade da luz?
-[ ] 300 000 000 metros por segundo (m/s)
+[x] 300 000 000 metros por segundo (m/s)
 [ ] 150 000 000 metros por segundo (m/s)
 [ ] 199 792 458 metros por segundo (m/s)
 [ ] 299 792 458 metros por segundo (m/s)
@@ -240,7 +240,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 27**: Em qual local da ásia o português é língua oficial?
 [ ] índia
 [ ] Filipinas
-[ ] Moçambique
+[x] Moçambique
 [ ] Macau
 [ ] Portugal
 
@@ -248,7 +248,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 [ ] 12:06
-[ ] 6:20
+[x] 6:20
 [ ] 2:20
 [ ] 6:02
 [ ] 12:20
@@ -256,7 +256,7 @@ Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
  
 
 **Questão 29**: Quem é o autor de "O Príncipe"?
-[ ] Maquiavel
+[x] Maquiavel
 [ ] Antoine de Saint-Exupéry
 [ ] Montesquieu
 [ ] Thomas Hobbes
