@@ -292,7 +292,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 33**: Qual destes países é transcontinental?
-[X] Rússia
+[x] Rússia
 [ ] Filipinas
 [ ] Istambul
 [ ] Groenlândia
@@ -314,21 +314,21 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] A Biologia
 [ ] A Matemática
 [ ] A Astronomia
-[X] A Mitologia
+[x] A Mitologia
 
  
 
 **Questão 36**: Qual das alternativas menciona apenas símbolos nacionais?
 [ ] Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo
-[X] Bandeira nacional, armas nacionais, hino nacional e selo nacional
-[ ] Bandeira nacional, brasão, hino nacional e hino da independência
+[ ] Bandeira nacional, armas nacionais, hino nacional e selo nacional
+[x] Bandeira nacional, brasão, hino nacional e hino da independência
 [ ] Bandeira nacional, cores nacionais, hino nacional e hino da independência
 [ ] Bandeira insígnia da presidência, brasão flora e fauna e hinos
 
  
 
 **Questão 37**: Quais os planetas do sistema solar?
-[X] Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
+[x] Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
 [ ] Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano, Vênus
 [ ] Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
 [ ] Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus
@@ -337,7 +337,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 38**: Qual era o nome de Aleijadinho?
-[ ] Alexandrino Francisco Lisboa
+[X] Alexandrino Francisco Lisboa
 [ ] Manuel Francisco Lisboa
 [ ] Alex Francisco Lisboa
 [ ] Francisco Antônio Lisboa
@@ -357,7 +357,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 40**: Qual o maior animal terrestre?
 [ ] Baleia Azul
 [ ] Dinossauro
-[X] Elefante africano
+[x] Elefante africano
 [ ] Tubarão Branco
 [ ] Girafa
 
@@ -375,7 +375,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 42**: Que líder mundial ficou conhecida como "Dama de Ferro"?
 [ ] Dilma Rousseff
 [ ] Angela Merkel
-[X] Margaret Thatcher
+[x] Margaret Thatcher
 [ ] Hillary Clinton
 [ ] Christine Lagarde
 
@@ -392,7 +392,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 44**: Quais os nomes dos três Reis Magos?
 [ ] Gaspar, Nicolau e Natanael
-[X] Belchior, Gaspar e Baltazar
+[x] Belchior, Gaspar e Baltazar
 [ ] Belchior, Gaspar e Nataniel
 [ ] Gabriel, Benjamim e Melchior
 [ ] Melchior, Noé e Galileu
@@ -438,7 +438,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 49**: Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?
 [ ] Marie Curie
 [ ] Blaise Pascal
-[X] Louis Pasteur
+(X) Louis Pasteur
 [ ] Antoine Lavoisier
 [ ] Charles Darwin
 
@@ -485,7 +485,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] uma vaca
 [ ] uma ovelha
 [ ] uma gata
-[ ] uma loba
+[X] uma loba
 
  
 
@@ -493,7 +493,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Torre Eiffel
 [ ] Petit Palais
 [ ] Grand Palais
-[ ] Museu do Louvre
+[X] Museu do Louvre
 [ ] Arco do Triunfo
 
 
