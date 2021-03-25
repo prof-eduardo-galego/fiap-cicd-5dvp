@@ -5,7 +5,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 1**: Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?
 [ ] Tem entre 2 a 4 litros. São retirados 450 mililitros
-[ ] Tem entre 4 a 6 litros. São retirados 450 mililitros
+[x] Tem entre 4 a 6 litros. São retirados 450 mililitros
 [ ] Tem 10 litros. São retirados 2 litros
 [ ] Tem 7 litros. São retirados 1,5 litros
 [X] Tem 0,5 litros. São retirados 0,5 litros
@@ -15,7 +15,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 2**: De quem é a famosa frase "Penso, logo existo"?
 [ ] Platão
 [ ] Galileu Galilei
-[ ] Descartes
+[x] Descartes
 [ ] Sócrates
 [X] Francis Bacon
 
@@ -44,7 +44,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [X] Jacinto Anjos
 [ ] Getúlio Vargas
 [ ] João Figueiredo
-[ ] João Goulart
+[x] João Goulart
 
  
 
@@ -58,7 +58,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
-[ ] O Senhor dos Anéis
+[x] O Senhor dos Anéis
 [ ] Dom Quixote
 [X] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
@@ -78,7 +78,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 9**: Atualmente, quantos elementos químicos a tabela periódica possui?
 [ ] 113
 [ ] 109
-[ ] 108
+[x] 108
 [ ] 118
 [X] 92
 
@@ -97,7 +97,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [X] Legenda
 [ ] Conto
 [ ] História
-[ ] Lenda
+[x] Lenda
 [ ] Legendário
 
  
@@ -194,7 +194,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 22**: Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?
 [ ] Caipora
-[ ] Saci
+[x] Saci
 [ ] Lobisomem
 [ ] Boitatá
 [ ] Negrinho do Pastoreio
@@ -206,7 +206,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Paleolítico
 [ ] Idade dos Metais
 [ ] Período da Pedra Polida
-[ ] Idade Média
+[x] Idade Média
 
 
 
@@ -229,7 +229,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 26**: Qual a velocidade da luz?
-[ ] 300 000 000 metros por segundo (m/s)
+[x] 300 000 000 metros por segundo (m/s)
 [ ] 150 000 000 metros por segundo (m/s)
 [ ] 199 792 458 metros por segundo (m/s)
 [ ] 299 792 458 metros por segundo (m/s)
@@ -240,15 +240,15 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 27**: Em qual local da ásia o português é língua oficial?
 [ ] índia
 [ ] Filipinas
-[ ] Moçambique
+[x] Moçambique
 [ ] Macau
 [ ] Portugal
 
 
 
-Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
+**Questão 28**. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 [ ] 12:06
-[ ] 6:20
+[x] 6:20
 [ ] 2:20
 [ ] 6:02
 [ ] 12:20
@@ -264,7 +264,7 @@ Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 
 
 
-Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do presente do indicativo?
+**Questão 30**. Como é a conjugação do verbo caber na 1a. pessoa do singular do presente do indicativo?
 [ ] Eu caibo
 [ ] Ele cabe
 [ ] Que eu caiba
@@ -274,7 +274,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 
 **Questão 31**: Quais destas construções famosas ficam nos Estados Unidos?
-[ ] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
+[X] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
 [ ] Estátua da Liberdade, Big Ben e The High Line
 [ ] Angkor Wat, Taj Mahal e Skywalk no Grand Canyon
 [ ] Lincoln Memorial, Sidney Opera House e Burj Khalifa
@@ -285,14 +285,14 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 32**: Quais destas doenças são sexualmente transmissíveis?
 [ ] Aids, tricomoníase e ebola
 [ ] Chikungunya, aids e herpes genital
-[ ] Gonorreia, clamídia e sífilis
+[X] Gonorreia, clamídia e sífilis
 [ ] Botulismo, cistite e gonorreia
 [ ] Hepatite B, febre tifoide e hanseníase
 
 
 
 **Questão 33**: Qual destes países é transcontinental?
-[ ] Rússia
+[x] Rússia
 [ ] Filipinas
 [ ] Istambul
 [ ] Groenlândia
@@ -305,7 +305,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] é um homem mal.
 [ ] Esse é o mal de todos.
 [ ] Mal falou nele, o fulano apareceu.
-[ ] é um mau vendedor.
+[X] é um mau vendedor.
 
  
 
@@ -314,21 +314,21 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] A Biologia
 [ ] A Matemática
 [ ] A Astronomia
-[ ] A Mitologia
+[x] A Mitologia
 
  
 
 **Questão 36**: Qual das alternativas menciona apenas símbolos nacionais?
 [ ] Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo
 [ ] Bandeira nacional, armas nacionais, hino nacional e selo nacional
-[ ] Bandeira nacional, brasão, hino nacional e hino da independência
+[x] Bandeira nacional, brasão, hino nacional e hino da independência
 [ ] Bandeira nacional, cores nacionais, hino nacional e hino da independência
 [ ] Bandeira insígnia da presidência, brasão flora e fauna e hinos
 
  
 
 **Questão 37**: Quais os planetas do sistema solar?
-[ ] Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
+[x] Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
 [ ] Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano, Vênus
 [ ] Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
 [ ] Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus
@@ -337,18 +337,18 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
  
 
 **Questão 38**: Qual era o nome de Aleijadinho?
-[ ] Alexandrino Francisco Lisboa
+[X] Alexandrino Francisco Lisboa
 [ ] Manuel Francisco Lisboa
 [ ] Alex Francisco Lisboa
 [ ] Francisco Antônio Lisboa
-[ ] Antônio Francisco Lisboa
+[X] Antônio Francisco Lisboa
 
  
 
 **Questão 39**: Júpiter e Plutão são os correlatos romanos de quais deuses gregos?
 [ ] Ares e Hermes
 [ ] Cronos e Apolo
-[ ] Zeus e Hades
+[X] Zeus e Hades
 [ ] Dionísio e Deméter
 [ ] Zeus e Ares
 
@@ -357,14 +357,14 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 40**: Qual o maior animal terrestre?
 [ ] Baleia Azul
 [ ] Dinossauro
-[ ] Elefante africano
+[x] Elefante africano
 [ ] Tubarão Branco
 [ ] Girafa
 
 
 
 **Questão 41**: Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?
-[ ] Igualdade das raças
+[X] Igualdade das raças
 [ ] Justiça para os menos favorecidos
 [ ] Intolerância religiosa
 [ ] Prêmio Nobel da Paz
@@ -375,7 +375,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 42**: Que líder mundial ficou conhecida como "Dama de Ferro"?
 [ ] Dilma Rousseff
 [ ] Angela Merkel
-[ ] Margaret Thatcher
+[x] Margaret Thatcher
 [ ] Hillary Clinton
 [ ] Christine Lagarde
 
@@ -386,13 +386,13 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Acordo entre países europeus acerca da imigração e Acordo econômico entre Inglaterra, Rússia a França
 [ ] Acordo entre vários países acerca das consequências do aquecimento global e Acordo de cooperação financeira internacional entre as três maiores potências mundiais
 [ ] Acordo de cooperação financeira internacional entre as três maiores potências mundiais e Acordo entre vários países acerca das consequências do aquecimento global
-[ ] Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra
+[X] Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra
 
 
 
 **Questão 44**: Quais os nomes dos três Reis Magos?
 [ ] Gaspar, Nicolau e Natanael
-[ ] Belchior, Gaspar e Baltazar
+[x] Belchior, Gaspar e Baltazar
 [ ] Belchior, Gaspar e Nataniel
 [ ] Gabriel, Benjamim e Melchior
 [ ] Melchior, Noé e Galileu
@@ -400,7 +400,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
  
 
 **Questão 45**: Quais os principais heterônimos de Fernando Pessoa?
-[ ] Alberto Caeiro, Ricardo Reis e álvaro de Campos
+[X] Alberto Caeiro, Ricardo Reis e álvaro de Campos
 [ ] Ariano Suassuna, Raul Bopp e Quincas Borba
 [ ] Bento Teixeira, Ricardo Reis e Haroldo de Campos
 [ ] Alberto Caeiro, Ricardo Leite e Augusto de Campos
@@ -412,13 +412,13 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Judaísmo
 [ ] Zoroastrismo
 [ ] Islamismo
-[ ] Cristianismo
+[X] Cristianismo
 [ ] Hinduísmo
 
 
 
 **Questão 47**: Qual desses filmes foi baseado na obra de Shakespeare?
-[ ] Muito Barulho por Nada (2012)
+[X] Muito Barulho por Nada (2012)
 [ ] Capitães de Areia (2011)
 [ ] A Dama das Camélias (1936)
 [ ] A Revolução dos Bichos (1954)
@@ -431,14 +431,14 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Buzz Aldrin, em 1969
 [ ] Charles Conrad, em 1969
 [ ] Charles Duke, em 1971
-[ ] Neil Armstrong, em 1969.
+[X] Neil Armstrong, em 1969.
 
  
 
 **Questão 49**: Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?
 [ ] Marie Curie
 [ ] Blaise Pascal
-[ ] Louis Pasteur
+(X) Louis Pasteur
 [ ] Antoine Lavoisier
 [ ] Charles Darwin
 
@@ -447,7 +447,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 50**: As pessoas de qual tipo sanguíneo são consideradas doadores universais?
 [ ] Tipo A
 [ ] Tipo B
-[ ] Tipo O
+[X] Tipo O
 [ ] Tipo AB
 [ ] Tipo ABO
 
@@ -456,7 +456,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 51**: Quais são os cromossomos que determinam o sexo masculino?
 [ ] Os V
 [ ] Os X
-[ ] Os Y
+[X] Os Y
 [ ] Os W
 [ ] Os Z
 
@@ -485,7 +485,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] uma vaca
 [ ] uma ovelha
 [ ] uma gata
-[ ] uma loba
+[X] uma loba
 
  
 
@@ -493,7 +493,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Torre Eiffel
 [ ] Petit Palais
 [ ] Grand Palais
-[ ] Museu do Louvre
+[X] Museu do Louvre
 [ ] Arco do Triunfo
 
 
