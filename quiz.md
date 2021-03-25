@@ -8,7 +8,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [x] Tem entre 4 a 6 litros. São retirados 450 mililitros
 [ ] Tem 10 litros. São retirados 2 litros
 [ ] Tem 7 litros. São retirados 1,5 litros
-[X] Tem 0,5 litros. São retirados 0,5 litros
+[ ] Tem 0,5 litros. São retirados 0,5 litros
 
 
 
@@ -116,7 +116,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Miguel de Cervantes, Gregório de Matos e Danthe Alighieri
 [ ] Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos
 [ ] Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira
-[ ] álvares de Azevedo, Gregório de Matos e Bento Teixeira
+[x] álvares de Azevedo, Gregório de Matos e Bento Teixeira
 
 
  
@@ -125,13 +125,13 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Proclamação da República e Dia Nacional da Consciência Negra
 [ ] Dia do Médico e Dia de São Lucas
 [ ] Dia de Finados e Dia Nacional do Livro
-[X] Black Friday e Dia da árvore
+[x] Black Friday e Dia da árvore
 
 
  
 **Questão 15**: Quem pintou "Guernica"?
 [ ] Paul Cézanne
-[ ] Pablo Picasso
+[x] Pablo Picasso
 [ ] Diego Rivera
 [X] Tarsila do Amaral
 [ ] Salvador Dalí
@@ -142,7 +142,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 12 minutos
 [X] 1 dia
 [ ] 12 horas
-[ ] 8 minutos
+[x] 8 minutos
 [ ] segundos
 
 
@@ -150,8 +150,8 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 17**: Qual a tradução da frase "Fabiano cogió su saco antes de salir"?
 [ ] Fabiano coseu seu paletó antes de sair
 [ ] Fabiano fechou o saco antes de sair
-[ ] Fabiano pegou seu paletó antes de sair
-[X] Fabiano cortou o saco antes de cair
+[x] Fabiano pegou seu paletó antes de sair
+[ ] Fabiano cortou o saco antes de cair
 [ ] Fabiano rasgou seu paletó antes de cair
 
 
@@ -168,8 +168,8 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 19**: Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:
 [ ] Tubarão branco, crocodilo e sucuri
 [ ] Tigre, gavião e orca
-[ ] Hiena, urso branco e lobo cinzento
-[X] Orca, onça e tarântula
+[x] Hiena, urso branco e lobo cinzento
+[ ] Orca, onça e tarântula
 [ ] Leão, tubarão branco e urso cinzento
 
  
