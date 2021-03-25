@@ -60,7 +60,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
 [ ] O Senhor dos Anéis
 [ ] Dom Quixote
-[ ] O Pequeno Príncipe
+[X] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
 [ ] Um Conto de Duas Cidades
 
@@ -69,7 +69,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[ ] Infinitas
+[X] Infinitas
 [ ] Vinte
 [ ] Milhares
 
@@ -103,7 +103,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 12**: Qual o número mínimo de jogadores numa partida de futebol?
-[ ] 8
+[X] 8
 [ ] 10
 [ ] 9
 [ ] 5
@@ -115,14 +115,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira
 [ ] Miguel de Cervantes, Gregório de Matos e Danthe Alighieri
 [ ] Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos
-[ ] Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira
+[X] Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira
 [ ] álvares de Azevedo, Gregório de Matos e Bento Teixeira
 
 
  
 **Questão 14**: Quais as duas datas que são comemoradas em novembro?
 [ ] Independência do Brasil e Dia da Bandeira
-[ ] Proclamação da República e Dia Nacional da Consciência Negra
+[X] Proclamação da República e Dia Nacional da Consciência Negra
 [ ] Dia do Médico e Dia de São Lucas
 [ ] Dia de Finados e Dia Nacional do Livro
 [ ] Black Friday e Dia da árvore
@@ -131,7 +131,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 **Questão 15**: Quem pintou "Guernica"?
 [ ] Paul Cézanne
-[ ] Pablo Picasso
+[X] Pablo Picasso
 [ ] Diego Rivera
 [ ] Tarsila do Amaral
 [ ] Salvador Dalí
@@ -161,7 +161,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
-[ ] Argentina
+[X] Argentina
 
  
 
@@ -184,8 +184,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 21**: Em que ordem surgiram os modelos atômicos?
-[ ] Thomson, Dalton, Rutherford, Rutherford-Bohr
-[ ] Rutherford-Bohr, Rutherford, Thomson, Dalton
+[ ] Thomson, Dalton, Rutherford, Rutherford-BohrMadagascar
 [ ] Dalton, Rutherford-Bohr, Thomson, Rutherford
 [ ] Dalton, Thomson, Rutherford-Bohr, Rutherford
 [ ] Dalton, Thomson, Rutherford, Rutherford-Bohr
@@ -215,7 +214,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Artigo, verbo transitivo e verbo intransitivo
 [ ] Fonologia, Morfologia e Sintaxe
 [ ] Hiatos, ditongos e tritongos
-[ ] Substantivo, verbo e preposição
+[X] Substantivo, verbo e preposição
 
  
 
@@ -248,7 +247,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 [ ] 12:06
-[ ] 6:20
+[X] 6:20
 [ ] 2:20
 [ ] 6:02
 [ ] 12:20
@@ -256,7 +255,7 @@ Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
  
 
 **Questão 29**: Quem é o autor de "O Príncipe"?
-[ ] Maquiavel
+[X] Maquiavel
 [ ] Antoine de Saint-Exupéry
 [ ] Montesquieu
 [ ] Thomas Hobbes
@@ -274,7 +273,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 
 **Questão 31**: Quais destas construções famosas ficam nos Estados Unidos?
-[ ] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
+[X] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
 [ ] Estátua da Liberdade, Big Ben e The High Line
 [ ] Angkor Wat, Taj Mahal e Skywalk no Grand Canyon
 [ ] Lincoln Memorial, Sidney Opera House e Burj Khalifa
@@ -292,7 +291,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 
 **Questão 33**: Qual destes países é transcontinental?
-[ ] Rússia
+[X] Rússia
 [ ] Filipinas
 [ ] Istambul
 [ ] Groenlândia
@@ -338,7 +337,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 **Questão 38**: Qual era o nome de Aleijadinho?
 [ ] Alexandrino Francisco Lisboa
-[ ] Manuel Francisco Lisboa
+[X] Manuel Francisco Lisboa
 [ ] Alex Francisco Lisboa
 [ ] Francisco Antônio Lisboa
 [ ] Antônio Francisco Lisboa
@@ -476,7 +475,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] O escotismo
 [ ] O clube dos aventureiros
 [ ] A associação juvenil
-[ ] A Organização mundial da juventude
+[X] A Organização mundial da juventude
 
 
 
@@ -510,7 +509,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 57**: Com que dois países faz fronteira o Equador?
 [ ] com o Brasil e com a Colômbia
 [ ] com a Colômbia e com a Venezuela
-[ ] com a Colômbia e com o Peru
+[X] com a Colômbia e com o Peru
 [ ] com o Peru e com o Equador
 [ ] com o Equador e o Brasil
 
@@ -544,7 +543,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 
 **Questão 61**: Em que oceano fica Madagascar?
-[ ] Oceano índico
+[X] Oceano índico
 [ ] Oceano Antártico
 [ ] Oceano Atlântico
 [ ] Oceano Pacífico
@@ -565,7 +564,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Cobre
 [ ] Prata
 [ ] Mercúrio
-[ ] Ouro
+[X] Ouro
 [ ] Manganês
 
 
@@ -582,7 +581,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 65**: Quem viveu, segundo a bíblia, 969 anos?
 [ ] Jesus Cristo
 [ ] Noé
-[ ] Matusalém
+[X] Matusalém
 [ ] Benjamim
 [ ] Abel
 
@@ -595,10 +594,10 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Assunção
 [ ] Caracas
 
- 
+
 
 **Questão 67**: Quem pintou o teto da capela sistina?
-[ ] Michelangelo
+[X] Michelangelo
 [ ] Leonardo da Vinci
 [ ] Rafael
 [ ] Sandro Botticelli
