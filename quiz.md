@@ -7,7 +7,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Tem entre 2 a 4 litros. São retirados 450 mililitros
 [x] Tem entre 4 a 6 litros. São retirados 450 mililitros
 [ ] Tem 10 litros. São retirados 2 litros
-[x] Tem 7 litros. São retirados 1,5 litros
+[ ] Tem 7 litros. São retirados 1,5 litros
 [ ] Tem 0,5 litros. São retirados 0,5 litros
 
 
@@ -17,21 +17,21 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Galileu Galilei
 [x] Descartes
 [ ] Sócrates
-[ ] Francis Bacon
+[X] Francis Bacon
 
  
 
 **Questão 3**: De onde é a invenção do chuveiro elétrico?
 [ ] França
 [ ] Inglaterra
-[x] Brasil
+[X] Brasil
 [ ] Austrália
 [ ] Itália
 
  
 
 **Questão 4**: Quais o menor e o maior país do mundo?
-[x] Vaticano e Rússia
+[X] Vaticano e Rússia
 [ ] Nauru e China
 [ ] Mônaco e Canadá
 [ ] Malta e Estados Unidos
@@ -41,7 +41,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 5**: Qual o nome do presidente do Brasil que ficou conhecido como Jango?
 [ ] Jânio Quadros
-[ ] Jacinto Anjos
+[X] Jacinto Anjos
 [ ] Getúlio Vargas
 [ ] João Figueiredo
 [x] João Goulart
@@ -49,8 +49,8 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 6**: Qual o grupo em que todas as palavras foram escritas corretamente?
-[ ] Asterístico, beneficiente, meteorologia, entertido
-[x] Asterisco, beneficente, meteorologia, entretido
+[X] Asterístico, beneficiente, meteorologia, entertido
+[ ] Asterisco, beneficente, meteorologia, entretido
 [ ] Asterisco, beneficente, metereologia, entretido
 [ ] Asterístico, beneficiente, metereologia, entretido
 [ ] Asterisco, beneficiente, metereologia, entretido
@@ -60,7 +60,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
 [x] O Senhor dos Anéis
 [ ] Dom Quixote
-[ ] O Pequeno Príncipe
+[X] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
 [ ] Um Conto de Duas Cidades
 
@@ -69,7 +69,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[x] Infinitas
+[X] Infinitas
 [ ] Vinte
 [ ] Milhares
 
@@ -80,12 +80,12 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 109
 [x] 108
 [ ] 118
-[ ] 92
+[X] 92
 
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[x] Japão e Serra Leoa
+[X] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -94,7 +94,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 11**: O que a palavra "legend" significa em português?
-[ ] Legenda
+[X] Legenda
 [ ] Conto
 [ ] História
 [x] Lenda
@@ -107,12 +107,12 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 10
 [ ] 9
 [ ] 5
-[x] 7
+[X] 7
 
 
 
 **Questão 13**: Quais os principais autores do Barroco no Brasil?
-[ ] Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira
+[X] Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira
 [ ] Miguel de Cervantes, Gregório de Matos e Danthe Alighieri
 [ ] Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos
 [ ] Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira
@@ -133,14 +133,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Paul Cézanne
 [x] Pablo Picasso
 [ ] Diego Rivera
-[ ] Tarsila do Amaral
+[X] Tarsila do Amaral
 [ ] Salvador Dalí
 
  
 
 **Questão 16**: Quanto tempo a luz do Sol demora para chegar à Terra?
-[x] 12 minutos
-[ ] 1 dia
+[ ] 12 minutos
+[X] 1 dia
 [ ] 12 horas
 [x] 8 minutos
 [ ] segundos
@@ -161,7 +161,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
-[x] Argentina
+[X] Argentina
 
  
 
@@ -177,7 +177,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 20**: Qual a altura da rede de vôlei nos jogos masculino e feminino?
 [ ] 2,4 para ambos
 [ ] 2,5 m e 2,0 m
-[x] 1,8 m e 1,5 m
+[X] 1,8 m e 1,5 m
 [ ] 2,45 m e 2,15 m
 [ ] 2,43 m e 2,24 m
 
@@ -292,7 +292,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 33**: Qual destes países é transcontinental?
-[X] Rússia
+[x] Rússia
 [ ] Filipinas
 [ ] Istambul
 [ ] Groenlândia
@@ -314,21 +314,21 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] A Biologia
 [ ] A Matemática
 [ ] A Astronomia
-[X] A Mitologia
+[x] A Mitologia
 
  
 
 **Questão 36**: Qual das alternativas menciona apenas símbolos nacionais?
 [ ] Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo
-[X] Bandeira nacional, armas nacionais, hino nacional e selo nacional
-[ ] Bandeira nacional, brasão, hino nacional e hino da independência
+[ ] Bandeira nacional, armas nacionais, hino nacional e selo nacional
+[x] Bandeira nacional, brasão, hino nacional e hino da independência
 [ ] Bandeira nacional, cores nacionais, hino nacional e hino da independência
 [ ] Bandeira insígnia da presidência, brasão flora e fauna e hinos
 
  
 
 **Questão 37**: Quais os planetas do sistema solar?
-[X] Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
+[x] Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
 [ ] Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano, Vênus
 [ ] Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
 [ ] Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus
@@ -337,7 +337,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 38**: Qual era o nome de Aleijadinho?
-[ ] Alexandrino Francisco Lisboa
+[X] Alexandrino Francisco Lisboa
 [ ] Manuel Francisco Lisboa
 [ ] Alex Francisco Lisboa
 [ ] Francisco Antônio Lisboa
@@ -357,7 +357,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 40**: Qual o maior animal terrestre?
 [ ] Baleia Azul
 [ ] Dinossauro
-[X] Elefante africano
+[x] Elefante africano
 [ ] Tubarão Branco
 [ ] Girafa
 
@@ -375,7 +375,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 42**: Que líder mundial ficou conhecida como "Dama de Ferro"?
 [ ] Dilma Rousseff
 [ ] Angela Merkel
-[X] Margaret Thatcher
+[x] Margaret Thatcher
 [ ] Hillary Clinton
 [ ] Christine Lagarde
 
@@ -392,7 +392,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 44**: Quais os nomes dos três Reis Magos?
 [ ] Gaspar, Nicolau e Natanael
-[X] Belchior, Gaspar e Baltazar
+[x] Belchior, Gaspar e Baltazar
 [ ] Belchior, Gaspar e Nataniel
 [ ] Gabriel, Benjamim e Melchior
 [ ] Melchior, Noé e Galileu
@@ -438,7 +438,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 49**: Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?
 [ ] Marie Curie
 [ ] Blaise Pascal
-[X] Louis Pasteur
+(X) Louis Pasteur
 [ ] Antoine Lavoisier
 [ ] Charles Darwin
 
@@ -485,7 +485,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] uma vaca
 [ ] uma ovelha
 [ ] uma gata
-[ ] uma loba
+[X] uma loba
 
  
 
@@ -493,7 +493,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Torre Eiffel
 [ ] Petit Palais
 [ ] Grand Palais
-[ ] Museu do Louvre
+[X] Museu do Louvre
 [ ] Arco do Triunfo
 
 
