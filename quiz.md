@@ -274,7 +274,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 31**: Quais destas construções famosas ficam nos Estados Unidos?
-[X] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
+[x] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
 [ ] Estátua da Liberdade, Big Ben e The High Line
 [ ] Angkor Wat, Taj Mahal e Skywalk no Grand Canyon
 [ ] Lincoln Memorial, Sidney Opera House e Burj Khalifa
@@ -285,7 +285,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 32**: Quais destas doenças são sexualmente transmissíveis?
 [ ] Aids, tricomoníase e ebola
 [ ] Chikungunya, aids e herpes genital
-[X] Gonorreia, clamídia e sífilis
+[x] Gonorreia, clamídia e sífilis
 [ ] Botulismo, cistite e gonorreia
 [ ] Hepatite B, febre tifoide e hanseníase
 
@@ -305,7 +305,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] é um homem mal.
 [ ] Esse é o mal de todos.
 [ ] Mal falou nele, o fulano apareceu.
-[X] é um mau vendedor.
+[x] é um mau vendedor.
 
  
 
@@ -320,9 +320,8 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 36**: Qual das alternativas menciona apenas símbolos nacionais?
 [ ] Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo
-[ ] Bandeira nacional, armas nacionais, hino nacional e selo nacional
-[x] Bandeira nacional, brasão, hino nacional e hino da independência
-[ ] Bandeira nacional, cores nacionais, hino nacional e hino da independência
+[x] Bandeira nacional, armas nacionais, hino nacional e selo nacional
+[ ] Bandeira nacional, brasão, hino nacional e hino da independência
 [ ] Bandeira insígnia da presidência, brasão flora e fauna e hinos
 
  
@@ -341,14 +340,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Manuel Francisco Lisboa
 [ ] Alex Francisco Lisboa
 [ ] Francisco Antônio Lisboa
-[X] Antônio Francisco Lisboa
+[x] Antônio Francisco Lisboa
 
  
 
 **Questão 39**: Júpiter e Plutão são os correlatos romanos de quais deuses gregos?
 [ ] Ares e Hermes
 [ ] Cronos e Apolo
-[X] Zeus e Hades
+[x] Zeus e Hades
 [ ] Dionísio e Deméter
 [ ] Zeus e Ares
 
@@ -364,7 +363,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 41**: Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?
-[X] Igualdade das raças
+[x] Igualdade das raças
 [ ] Justiça para os menos favorecidos
 [ ] Intolerância religiosa
 [ ] Prêmio Nobel da Paz
@@ -386,7 +385,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Acordo entre países europeus acerca da imigração e Acordo econômico entre Inglaterra, Rússia a França
 [ ] Acordo entre vários países acerca das consequências do aquecimento global e Acordo de cooperação financeira internacional entre as três maiores potências mundiais
 [ ] Acordo de cooperação financeira internacional entre as três maiores potências mundiais e Acordo entre vários países acerca das consequências do aquecimento global
-[X] Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra
+[x] Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra
 
 
 
@@ -400,7 +399,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 45**: Quais os principais heterônimos de Fernando Pessoa?
-[X] Alberto Caeiro, Ricardo Reis e álvaro de Campos
+[x] Alberto Caeiro, Ricardo Reis e álvaro de Campos
 [ ] Ariano Suassuna, Raul Bopp e Quincas Borba
 [ ] Bento Teixeira, Ricardo Reis e Haroldo de Campos
 [ ] Alberto Caeiro, Ricardo Leite e Augusto de Campos
@@ -411,14 +410,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 46**: Qual a religião monoteísta que conta com o maior número de adeptos no mundo?
 [ ] Judaísmo
 [ ] Zoroastrismo
-[ ] Islamismo
-[X] Cristianismo
+[x] Islamismo
+[ ] Cristianismo
 [ ] Hinduísmo
 
 
 
 **Questão 47**: Qual desses filmes foi baseado na obra de Shakespeare?
-[X] Muito Barulho por Nada (2012)
+[x] Muito Barulho por Nada (2012)
 [ ] Capitães de Areia (2011)
 [ ] A Dama das Camélias (1936)
 [ ] A Revolução dos Bichos (1954)
@@ -431,14 +430,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Buzz Aldrin, em 1969
 [ ] Charles Conrad, em 1969
 [ ] Charles Duke, em 1971
-[X] Neil Armstrong, em 1969.
+[x] Neil Armstrong, em 1969.
 
  
 
 **Questão 49**: Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?
 [ ] Marie Curie
 [ ] Blaise Pascal
-(X) Louis Pasteur
+[x] Louis Pasteur
 [ ] Antoine Lavoisier
 [ ] Charles Darwin
 
@@ -447,7 +446,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 50**: As pessoas de qual tipo sanguíneo são consideradas doadores universais?
 [ ] Tipo A
 [ ] Tipo B
-[X] Tipo O
+[x] Tipo O
 [ ] Tipo AB
 [ ] Tipo ABO
 
@@ -456,14 +455,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 51**: Quais são os cromossomos que determinam o sexo masculino?
 [ ] Os V
 [ ] Os X
-[X] Os Y
+[x] Os Y
 [ ] Os W
 [ ] Os Z
 
 
 
 **Questão 52**: Em que estado australiano fica situada a cidade de Sydney?
-[ ] Nova Gales do Sul
+[x] Nova Gales do Sul
 [ ] Victoria
 [ ] Tasmânia
 [ ] Queensland
@@ -473,7 +472,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 53**: Que organização juvenil foi fundado por Baden-Powell?
 [ ] A juventude socialista
-[ ] O escotismo
+[x] O escotismo
 [ ] O clube dos aventureiros
 [ ] A associação juvenil
 [ ] A Organização mundial da juventude
@@ -485,7 +484,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] uma vaca
 [ ] uma ovelha
 [ ] uma gata
-[X] uma loba
+[x] uma loba
 
  
 
@@ -493,7 +492,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Torre Eiffel
 [ ] Petit Palais
 [ ] Grand Palais
-[X] Museu do Louvre
+[x] Museu do Louvre
 [ ] Arco do Triunfo
 
 
@@ -502,7 +501,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] veias
 [ ] átrios
 [ ] ventrículos
-[ ] artérias
+[x] artérias
 [ ] aurículos
 
 
@@ -510,7 +509,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 57**: Com que dois países faz fronteira o Equador?
 [ ] com o Brasil e com a Colômbia
 [ ] com a Colômbia e com a Venezuela
-[ ] com a Colômbia e com o Peru
+[x] com a Colômbia e com o Peru
 [ ] com o Peru e com o Equador
 [ ] com o Equador e o Brasil
 
@@ -539,7 +538,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] o nitrogênio
 [ ] o nitrato de sódio
 [ ] o dióxido de ferro
-[ ] o dióxido de carbono
+[x] o dióxido de carbono
 
 
 
@@ -565,7 +564,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Cobre
 [ ] Prata
 [ ] Mercúrio
-[ ] Ouro
+[x] Ouro
 [ ] Manganês
 
 
@@ -590,7 +589,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 66**: Em que cidade ocorreu a Eco-92, a Conferência das Nações Unidas sobre ambiente e desenvolvimento?
 [ ] Buenos Aires
-[ ] Rio de Janeiro
+[x] Rio de Janeiro
 [ ] Montevidéu
 [ ] Assunção
 [ ] Caracas
@@ -599,7 +598,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 67**: Quem pintou o teto da capela sistina?
 [ ] Michelangelo
-[ ] Leonardo da Vinci
+[x] Leonardo da Vinci
 [ ] Rafael
 [ ] Sandro Botticelli
 [ ] Donatello
@@ -626,7 +625,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 70**: Jim Morrison era vocalista de que grupo?
 [ ] The Police
-[ ] The Doors
+[x] The Doors
 [ ] Pink Floyd
 [ ] Nirvana
 [ ] AC/DC
