@@ -246,7 +246,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 
-Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
+**Questão 28**. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 [ ] 12:06
 [x] 6:20
 [ ] 2:20
@@ -264,7 +264,7 @@ Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 
 
 
-Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do presente do indicativo?
+**Questão 30**. Como é a conjugação do verbo caber na 1a. pessoa do singular do presente do indicativo?
 [ ] Eu caibo
 [ ] Ele cabe
 [ ] Que eu caiba
@@ -285,14 +285,14 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 32**: Quais destas doenças são sexualmente transmissíveis?
 [ ] Aids, tricomoníase e ebola
 [ ] Chikungunya, aids e herpes genital
-[ ] Gonorreia, clamídia e sífilis
+[x] Gonorreia, clamídia e sífilis
 [ ] Botulismo, cistite e gonorreia
 [ ] Hepatite B, febre tifoide e hanseníase
 
 
 
 **Questão 33**: Qual destes países é transcontinental?
-[ ] Rússia
+[x] Rússia
 [ ] Filipinas
 [ ] Istambul
 [ ] Groenlândia
@@ -305,7 +305,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] é um homem mal.
 [ ] Esse é o mal de todos.
 [ ] Mal falou nele, o fulano apareceu.
-[ ] é um mau vendedor.
+[x] é um mau vendedor.
 
  
 
@@ -314,13 +314,13 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] A Biologia
 [ ] A Matemática
 [ ] A Astronomia
-[ ] A Mitologia
+[x] A Mitologia
 
  
 
 **Questão 36**: Qual das alternativas menciona apenas símbolos nacionais?
 [ ] Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo
-[ ] Bandeira nacional, armas nacionais, hino nacional e selo nacional
+[x] Bandeira nacional, armas nacionais, hino nacional e selo nacional
 [ ] Bandeira nacional, brasão, hino nacional e hino da independência
 [ ] Bandeira nacional, cores nacionais, hino nacional e hino da independência
 [ ] Bandeira insígnia da presidência, brasão flora e fauna e hinos
@@ -328,7 +328,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
  
 
 **Questão 37**: Quais os planetas do sistema solar?
-[ ] Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
+[x] Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
 [ ] Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano, Vênus
 [ ] Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio
 [ ] Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano, Vênus
@@ -341,14 +341,18 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Manuel Francisco Lisboa
 [ ] Alex Francisco Lisboa
 [ ] Francisco Antônio Lisboa
-[ ] Antônio Francisco Lisboa
+[x] Antônio Francisco Lisboa
 
  
 
 **Questão 39**: Júpiter e Plutão são os correlatos romanos de quais deuses gregos?
 [ ] Ares e Hermes
 [ ] Cronos e Apolo
+<<<<<<< HEAD
 [x] Zeus e Hades
+=======
+[x] Zeus e Hades
+>>>>>>> developer
 [ ] Dionísio e Deméter
 [ ] Zeus e Ares
 
@@ -357,14 +361,18 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 40**: Qual o maior animal terrestre?
 [ ] Baleia Azul
 [ ] Dinossauro
+<<<<<<< HEAD
 [x] Elefante africano
+=======
+[x] Elefante africano
+>>>>>>> developer
 [ ] Tubarão Branco
 [ ] Girafa
 
 
 
 **Questão 41**: Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?
-[ ] Igualdade das raças
+[x] Igualdade das raças
 [ ] Justiça para os menos favorecidos
 [ ] Intolerância religiosa
 [ ] Prêmio Nobel da Paz
@@ -375,7 +383,11 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 42**: Que líder mundial ficou conhecida como "Dama de Ferro"?
 [ ] Dilma Rousseff
 [ ] Angela Merkel
+<<<<<<< HEAD
 [x] Margaret Thatcher
+=======
+[x] Margaret Thatcher
+>>>>>>> developer
 [ ] Hillary Clinton
 [ ] Christine Lagarde
 
@@ -386,13 +398,17 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Acordo entre países europeus acerca da imigração e Acordo econômico entre Inglaterra, Rússia a França
 [ ] Acordo entre vários países acerca das consequências do aquecimento global e Acordo de cooperação financeira internacional entre as três maiores potências mundiais
 [ ] Acordo de cooperação financeira internacional entre as três maiores potências mundiais e Acordo entre vários países acerca das consequências do aquecimento global
-[ ] Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra
+[x] Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra
 
 
 
 **Questão 44**: Quais os nomes dos três Reis Magos?
 [ ] Gaspar, Nicolau e Natanael
+<<<<<<< HEAD
 [x] Belchior, Gaspar e Baltazar
+=======
+[x] Belchior, Gaspar e Baltazar
+>>>>>>> developer
 [ ] Belchior, Gaspar e Nataniel
 [ ] Gabriel, Benjamim e Melchior
 [ ] Melchior, Noé e Galileu
@@ -400,7 +416,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
  
 
 **Questão 45**: Quais os principais heterônimos de Fernando Pessoa?
-[ ] Alberto Caeiro, Ricardo Reis e álvaro de Campos
+[x] Alberto Caeiro, Ricardo Reis e álvaro de Campos
 [ ] Ariano Suassuna, Raul Bopp e Quincas Borba
 [ ] Bento Teixeira, Ricardo Reis e Haroldo de Campos
 [ ] Alberto Caeiro, Ricardo Leite e Augusto de Campos
@@ -411,14 +427,19 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 46**: Qual a religião monoteísta que conta com o maior número de adeptos no mundo?
 [ ] Judaísmo
 [ ] Zoroastrismo
+<<<<<<< HEAD
 [x] Islamismo
 [ ] Cristianismo
+=======
+[ ] Islamismo
+[x] Cristianismo
+>>>>>>> developer
 [ ] Hinduísmo
 
 
 
 **Questão 47**: Qual desses filmes foi baseado na obra de Shakespeare?
-[ ] Muito Barulho por Nada (2012)
+[x] Muito Barulho por Nada (2012)
 [ ] Capitães de Areia (2011)
 [ ] A Dama das Camélias (1936)
 [ ] A Revolução dos Bichos (1954)
@@ -431,14 +452,22 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Buzz Aldrin, em 1969
 [ ] Charles Conrad, em 1969
 [ ] Charles Duke, em 1971
+<<<<<<< HEAD
 [x] Neil Armstrong, em 1969.
+=======
+[x] Neil Armstrong, em 1969.
+>>>>>>> developer
 
  
 
 **Questão 49**: Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?
 [ ] Marie Curie
 [ ] Blaise Pascal
+<<<<<<< HEAD
 [x] Louis Pasteur
+=======
+[X] Louis Pasteur
+>>>>>>> developer
 [ ] Antoine Lavoisier
 [ ] Charles Darwin
 
@@ -447,7 +476,11 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 50**: As pessoas de qual tipo sanguíneo são consideradas doadores universais?
 [ ] Tipo A
 [ ] Tipo B
+<<<<<<< HEAD
 [x] Tipo O
+=======
+[X] Tipo O
+>>>>>>> developer
 [ ] Tipo AB
 [ ] Tipo ABO
 
@@ -456,7 +489,11 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 51**: Quais são os cromossomos que determinam o sexo masculino?
 [ ] Os V
 [ ] Os X
+<<<<<<< HEAD
 [x] Os Y
+=======
+[X] Os Y
+>>>>>>> developer
 [ ] Os W
 [ ] Os Z
 
