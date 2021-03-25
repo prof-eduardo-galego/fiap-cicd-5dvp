@@ -17,21 +17,21 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Galileu Galilei
 [x] Descartes
 [ ] Sócrates
-[ ] Francis Bacon
+[X] Francis Bacon
 
  
 
 **Questão 3**: De onde é a invenção do chuveiro elétrico?
 [ ] França
 [ ] Inglaterra
-[x] Brasil
+[X] Brasil
 [ ] Austrália
 [ ] Itália
 
  
 
 **Questão 4**: Quais o menor e o maior país do mundo?
-[x] Vaticano e Rússia
+[X] Vaticano e Rússia
 [ ] Nauru e China
 [ ] Mônaco e Canadá
 [ ] Malta e Estados Unidos
@@ -41,7 +41,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 5**: Qual o nome do presidente do Brasil que ficou conhecido como Jango?
 [ ] Jânio Quadros
-[ ] Jacinto Anjos
+[X] Jacinto Anjos
 [ ] Getúlio Vargas
 [ ] João Figueiredo
 [x] João Goulart
@@ -49,8 +49,8 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 6**: Qual o grupo em que todas as palavras foram escritas corretamente?
-[ ] Asterístico, beneficiente, meteorologia, entertido
-[x] Asterisco, beneficente, meteorologia, entretido
+[X] Asterístico, beneficiente, meteorologia, entertido
+[ ] Asterisco, beneficente, meteorologia, entretido
 [ ] Asterisco, beneficente, metereologia, entretido
 [ ] Asterístico, beneficiente, metereologia, entretido
 [ ] Asterisco, beneficiente, metereologia, entretido
@@ -60,7 +60,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
 [x] O Senhor dos Anéis
 [ ] Dom Quixote
-[ ] O Pequeno Príncipe
+[X] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
 [ ] Um Conto de Duas Cidades
 
@@ -69,7 +69,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[x] Infinitas
+[X] Infinitas
 [ ] Vinte
 [ ] Milhares
 
@@ -80,12 +80,12 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 109
 [x] 108
 [ ] 118
-[ ] 92
+[X] 92
 
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[x] Japão e Serra Leoa
+[X] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -94,7 +94,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 11**: O que a palavra "legend" significa em português?
-[ ] Legenda
+[X] Legenda
 [ ] Conto
 [ ] História
 [x] Lenda
@@ -107,16 +107,16 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 10
 [ ] 9
 [ ] 5
-[x] 7
+[X] 7
 
 
 
 **Questão 13**: Quais os principais autores do Barroco no Brasil?
-[ ] Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira
+[X] Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira
 [ ] Miguel de Cervantes, Gregório de Matos e Danthe Alighieri
 [ ] Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos
 [ ] Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira
-[ ] álvares de Azevedo, Gregório de Matos e Bento Teixeira
+[x] álvares de Azevedo, Gregório de Matos e Bento Teixeira
 
 
  
@@ -125,24 +125,24 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Proclamação da República e Dia Nacional da Consciência Negra
 [ ] Dia do Médico e Dia de São Lucas
 [ ] Dia de Finados e Dia Nacional do Livro
-[ ] Black Friday e Dia da árvore
+[x] Black Friday e Dia da árvore
 
 
  
 **Questão 15**: Quem pintou "Guernica"?
 [ ] Paul Cézanne
-[ ] Pablo Picasso
+[x] Pablo Picasso
 [ ] Diego Rivera
-[ ] Tarsila do Amaral
+[X] Tarsila do Amaral
 [ ] Salvador Dalí
 
  
 
 **Questão 16**: Quanto tempo a luz do Sol demora para chegar à Terra?
-[x] 12 minutos
-[ ] 1 dia
+[ ] 12 minutos
+[X] 1 dia
 [ ] 12 horas
-[ ] 8 minutos
+[x] 8 minutos
 [ ] segundos
 
 
@@ -150,7 +150,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 17**: Qual a tradução da frase "Fabiano cogió su saco antes de salir"?
 [ ] Fabiano coseu seu paletó antes de sair
 [ ] Fabiano fechou o saco antes de sair
-[ ] Fabiano pegou seu paletó antes de sair
+[x] Fabiano pegou seu paletó antes de sair
 [ ] Fabiano cortou o saco antes de cair
 [ ] Fabiano rasgou seu paletó antes de cair
 
@@ -161,14 +161,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
-[x] Argentina
+[X] Argentina
 
  
 
 **Questão 19**: Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:
 [ ] Tubarão branco, crocodilo e sucuri
 [ ] Tigre, gavião e orca
-[ ] Hiena, urso branco e lobo cinzento
+[x] Hiena, urso branco e lobo cinzento
 [ ] Orca, onça e tarântula
 [ ] Leão, tubarão branco e urso cinzento
 
@@ -177,7 +177,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 20**: Qual a altura da rede de vôlei nos jogos masculino e feminino?
 [ ] 2,4 para ambos
 [ ] 2,5 m e 2,0 m
-[ ] 1,8 m e 1,5 m
+[X] 1,8 m e 1,5 m
 [ ] 2,45 m e 2,15 m
 [ ] 2,43 m e 2,24 m
 
@@ -322,7 +322,6 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Bandeira insígnia da presidência, bandeira nacional, brasão, hinos e selo
 [x] Bandeira nacional, armas nacionais, hino nacional e selo nacional
 [ ] Bandeira nacional, brasão, hino nacional e hino da independência
-[ ] Bandeira nacional, cores nacionais, hino nacional e hino da independência
 [ ] Bandeira insígnia da presidência, brasão flora e fauna e hinos
 
  
@@ -337,7 +336,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 38**: Qual era o nome de Aleijadinho?
-[ ] Alexandrino Francisco Lisboa
+[X] Alexandrino Francisco Lisboa
 [ ] Manuel Francisco Lisboa
 [ ] Alex Francisco Lisboa
 [ ] Francisco Antônio Lisboa
@@ -348,11 +347,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 39**: Júpiter e Plutão são os correlatos romanos de quais deuses gregos?
 [ ] Ares e Hermes
 [ ] Cronos e Apolo
-<<<<<<< HEAD
 [x] Zeus e Hades
-=======
-[x] Zeus e Hades
->>>>>>> developer
 [ ] Dionísio e Deméter
 [ ] Zeus e Ares
 
@@ -361,11 +356,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 40**: Qual o maior animal terrestre?
 [ ] Baleia Azul
 [ ] Dinossauro
-<<<<<<< HEAD
 [x] Elefante africano
-=======
-[x] Elefante africano
->>>>>>> developer
 [ ] Tubarão Branco
 [ ] Girafa
 
@@ -383,11 +374,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 42**: Que líder mundial ficou conhecida como "Dama de Ferro"?
 [ ] Dilma Rousseff
 [ ] Angela Merkel
-<<<<<<< HEAD
 [x] Margaret Thatcher
-=======
-[x] Margaret Thatcher
->>>>>>> developer
 [ ] Hillary Clinton
 [ ] Christine Lagarde
 
@@ -404,11 +391,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 44**: Quais os nomes dos três Reis Magos?
 [ ] Gaspar, Nicolau e Natanael
-<<<<<<< HEAD
 [x] Belchior, Gaspar e Baltazar
-=======
-[x] Belchior, Gaspar e Baltazar
->>>>>>> developer
 [ ] Belchior, Gaspar e Nataniel
 [ ] Gabriel, Benjamim e Melchior
 [ ] Melchior, Noé e Galileu
@@ -427,13 +410,8 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 46**: Qual a religião monoteísta que conta com o maior número de adeptos no mundo?
 [ ] Judaísmo
 [ ] Zoroastrismo
-<<<<<<< HEAD
 [x] Islamismo
 [ ] Cristianismo
-=======
-[ ] Islamismo
-[x] Cristianismo
->>>>>>> developer
 [ ] Hinduísmo
 
 
@@ -452,22 +430,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Buzz Aldrin, em 1969
 [ ] Charles Conrad, em 1969
 [ ] Charles Duke, em 1971
-<<<<<<< HEAD
 [x] Neil Armstrong, em 1969.
-=======
-[x] Neil Armstrong, em 1969.
->>>>>>> developer
 
  
 
 **Questão 49**: Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?
 [ ] Marie Curie
 [ ] Blaise Pascal
-<<<<<<< HEAD
 [x] Louis Pasteur
-=======
-[X] Louis Pasteur
->>>>>>> developer
 [ ] Antoine Lavoisier
 [ ] Charles Darwin
 
@@ -476,11 +446,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 50**: As pessoas de qual tipo sanguíneo são consideradas doadores universais?
 [ ] Tipo A
 [ ] Tipo B
-<<<<<<< HEAD
 [x] Tipo O
-=======
-[X] Tipo O
->>>>>>> developer
 [ ] Tipo AB
 [ ] Tipo ABO
 
@@ -489,11 +455,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 51**: Quais são os cromossomos que determinam o sexo masculino?
 [ ] Os V
 [ ] Os X
-<<<<<<< HEAD
 [x] Os Y
-=======
-[X] Os Y
->>>>>>> developer
 [ ] Os W
 [ ] Os Z
 
