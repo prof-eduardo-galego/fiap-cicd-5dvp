@@ -24,7 +24,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 3**: De onde é a invenção do chuveiro elétrico?
 [ ] França
 [ ] Inglaterra
-[ ] Brasil
+[x] Brasil
 [ ] Austrália
 [ ] Itália
 
@@ -34,13 +34,13 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Vaticano e Rússia
 [ ] Nauru e China
 [ ] Mônaco e Canadá
-[ ] Malta e Estados Unidos
+[x] Malta e Estados Unidos
 [ ] São Marino e Índia
 
 
 
 **Questão 5**: Qual o nome do presidente do Brasil que ficou conhecido como Jango?
-[ ] Jânio Quadros
+[x] Jânio Quadros
 [ ] Jacinto Anjos
 [ ] Getúlio Vargas
 [ ] João Figueiredo
@@ -52,7 +52,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Asterístico, beneficiente, meteorologia, entertido
 [ ] Asterisco, beneficente, meteorologia, entretido
 [ ] Asterisco, beneficente, metereologia, entretido
-[ ] Asterístico, beneficiente, metereologia, entretido
+[x] Asterístico, beneficiente, metereologia, entretido
 [ ] Asterisco, beneficiente, metereologia, entretido
 
 
@@ -60,7 +60,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
 [ ] O Senhor dos Anéis
 [ ] Dom Quixote
-[ ] O Pequeno Príncipe
+[x] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
 [ ] Um Conto de Duas Cidades
 
@@ -69,14 +69,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[ ] Infinitas
+[x] Infinitas
 [ ] Vinte
 [ ] Milhares
 
 
 
 **Questão 9**: Atualmente, quantos elementos químicos a tabela periódica possui?
-[ ] 113
+[x] 113
 [ ] 109
 [ ] 108
 [ ] 118
@@ -85,7 +85,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[ ] Japão e Serra Leoa
+[x] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -97,7 +97,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Legenda
 [ ] Conto
 [ ] História
-[ ] Lenda
+[x] Lenda
 [ ] Legendário
 
  
@@ -107,12 +107,12 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 10
 [ ] 9
 [ ] 5
-[ ] 7
+[x] 7
 
 
 
 **Questão 13**: Quais os principais autores do Barroco no Brasil?
-[ ] Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira
+[x] Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira
 [ ] Miguel de Cervantes, Gregório de Matos e Danthe Alighieri
 [ ] Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos
 [ ] Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira
@@ -122,7 +122,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 **Questão 14**: Quais as duas datas que são comemoradas em novembro?
 [ ] Independência do Brasil e Dia da Bandeira
-[ ] Proclamação da República e Dia Nacional da Consciência Negra
+[x] Proclamação da República e Dia Nacional da Consciência Negra
 [ ] Dia do Médico e Dia de São Lucas
 [ ] Dia de Finados e Dia Nacional do Livro
 [ ] Black Friday e Dia da árvore
@@ -134,13 +134,13 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Pablo Picasso
 [ ] Diego Rivera
 [ ] Tarsila do Amaral
-[ ] Salvador Dalí
+[x] Salvador Dalí
 
  
 
 **Questão 16**: Quanto tempo a luz do Sol demora para chegar à Terra?
 [ ] 12 minutos
-[ ] 1 dia
+[x] 1 dia
 [ ] 12 horas
 [ ] 8 minutos
 [ ] segundos
@@ -148,7 +148,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 17**: Qual a tradução da frase "Fabiano cogió su saco antes de salir"?
-[ ] Fabiano coseu seu paletó antes de sair
+[x] Fabiano coseu seu paletó antes de sair
 [ ] Fabiano fechou o saco antes de sair
 [ ] Fabiano pegou seu paletó antes de sair
 [ ] Fabiano cortou o saco antes de cair
@@ -161,14 +161,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
-[ ] Argentina
+[x] Argentina
 
  
 
 **Questão 19**: Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:
 [ ] Tubarão branco, crocodilo e sucuri
 [ ] Tigre, gavião e orca
-[ ] Hiena, urso branco e lobo cinzento
+[x] Hiena, urso branco e lobo cinzento
 [ ] Orca, onça e tarântula
 [ ] Leão, tubarão branco e urso cinzento
 
@@ -181,7 +181,6 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 2,45 m e 2,15 m
 [x] 2,43 m e 2,24 m
 
- 
 
 **Questão 21**: Em que ordem surgiram os modelos atômicos?
 [ ] Thomson, Dalton, Rutherford, Rutherford-Bohr
