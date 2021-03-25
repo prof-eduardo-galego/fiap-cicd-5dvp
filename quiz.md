@@ -83,8 +83,9 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [x] 92
 
 
+
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[X] Japão e Serra Leoa
+[x] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -104,7 +105,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 12**: Qual o número mínimo de jogadores numa partida de futebol?
 [ ] 8
 [ ] 10
-[ ] 9
+[x] 9
 [ ] 5
 [X] 7
 
@@ -178,7 +179,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 2,5 m e 2,0 m
 [X] 1,8 m e 1,5 m
 [ ] 2,45 m e 2,15 m
-[ ] 2,43 m e 2,24 m
+[x] 2,43 m e 2,24 m
 
  
 
@@ -219,7 +220,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 25**: Qual a montanha mais alta do Brasil?
-[ ] Pico da Neblina
+[x] Pico da Neblina
 [ ] Pico Paraná
 [ ] Monte Roraima
 [ ] Pico Maior de Friburgo
@@ -231,7 +232,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [x] 300 000 000 metros por segundo (m/s)
 [ ] 150 000 000 metros por segundo (m/s)
 [ ] 199 792 458 metros por segundo (m/s)
-[ ] 299 792 458 metros por segundo (m/s)
+[x] 299 792 458 metros por segundo (m/s)
 [ ] 30 000 000 metros por segundo (m/s)
 
  
@@ -353,7 +354,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 40**: Qual o maior animal terrestre?
-[ ] Baleia Azul
+[x] Baleia Azul
 [ ] Dinossauro
 [x] Elefante africano
 [ ] Tubarão Branco
@@ -375,7 +376,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Angela Merkel
 [x] Margaret Thatcher
 [ ] Hillary Clinton
-[ ] Christine Lagarde
+[x] Christine Lagarde
 
 
 
