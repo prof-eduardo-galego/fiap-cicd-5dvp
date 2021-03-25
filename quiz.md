@@ -13,7 +13,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 2**: De quem é a famosa frase "Penso, logo existo"?
-[ ] Platão
+[x] Platão
 [ ] Galileu Galilei
 [x] Descartes
 [ ] Sócrates
@@ -40,8 +40,8 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 5**: Qual o nome do presidente do Brasil que ficou conhecido como Jango?
+[ ] Jacinto Anjos
 [ ] Jânio Quadros
-[X] Jacinto Anjos
 [ ] Getúlio Vargas
 [ ] João Figueiredo
 [x] João Goulart
@@ -78,10 +78,9 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 9**: Atualmente, quantos elementos químicos a tabela periódica possui?
 [ ] 113
 [ ] 109
-[x] 108
+[ ] 108
 [ ] 118
-[X] 92
-
+[x] 92
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
@@ -122,7 +121,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 **Questão 14**: Quais as duas datas que são comemoradas em novembro?
 [ ] Independência do Brasil e Dia da Bandeira
-[ ] Proclamação da República e Dia Nacional da Consciência Negra
+[x] Proclamação da República e Dia Nacional da Consciência Negra
 [ ] Dia do Médico e Dia de São Lucas
 [ ] Dia de Finados e Dia Nacional do Livro
 [x] Black Friday e Dia da árvore
@@ -157,7 +156,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
  
 **Questão 18**: Qual a nacionalidade de Che Guevara?
-[ ] Cubana
+[x] Cubana
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
@@ -203,7 +202,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 23**: Em que período da pré-história o fogo foi descoberto?
 [ ] Neolítico
-[ ] Paleolítico
+[x] Paleolítico
 [ ] Idade dos Metais
 [ ] Período da Pedra Polida
 [x] Idade Média
@@ -215,7 +214,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Artigo, verbo transitivo e verbo intransitivo
 [ ] Fonologia, Morfologia e Sintaxe
 [ ] Hiatos, ditongos e tritongos
-[ ] Substantivo, verbo e preposição
+[x] Substantivo, verbo e preposição
 
  
 
@@ -224,7 +223,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Pico Paraná
 [ ] Monte Roraima
 [ ] Pico Maior de Friburgo
-[ ] Pico da Bandeira
+[x] Pico da Bandeira
 
 
 
@@ -256,7 +255,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 29**: Quem é o autor de "O Príncipe"?
-[ ] Maquiavel
+[x] Maquiavel
 [ ] Antoine de Saint-Exupéry
 [ ] Montesquieu
 [ ] Thomas Hobbes
