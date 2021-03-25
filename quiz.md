@@ -179,7 +179,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 2,5 m e 2,0 m
 [ ] 1,8 m e 1,5 m
 [ ] 2,45 m e 2,15 m
-[ ] 2,43 m e 2,24 m
+[x] 2,43 m e 2,24 m
 
  
 
@@ -188,12 +188,12 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Rutherford-Bohr, Rutherford, Thomson, Dalton
 [ ] Dalton, Rutherford-Bohr, Thomson, Rutherford
 [ ] Dalton, Thomson, Rutherford-Bohr, Rutherford
-[ ] Dalton, Thomson, Rutherford, Rutherford-Bohr
+[x] Dalton, Thomson, Rutherford, Rutherford-Bohr
 
  
 
 **Questão 22**: Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?
-[ ] Caipora
+[x] Caipora
 [ ] Saci
 [ ] Lobisomem
 [ ] Boitatá
@@ -202,7 +202,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 23**: Em que período da pré-história o fogo foi descoberto?
-[ ] Neolítico
+[x] Neolítico
 [ ] Paleolítico
 [ ] Idade dos Metais
 [ ] Período da Pedra Polida
@@ -220,7 +220,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 25**: Qual a montanha mais alta do Brasil?
-[ ] Pico da Neblina
+[x] Pico da Neblina
 [ ] Pico Paraná
 [ ] Monte Roraima
 [ ] Pico Maior de Friburgo
@@ -232,7 +232,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 300 000 000 metros por segundo (m/s)
 [ ] 150 000 000 metros por segundo (m/s)
 [ ] 199 792 458 metros por segundo (m/s)
-[ ] 299 792 458 metros por segundo (m/s)
+[x] 299 792 458 metros por segundo (m/s)
 [ ] 30 000 000 metros por segundo (m/s)
 
  
@@ -241,14 +241,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] índia
 [ ] Filipinas
 [ ] Moçambique
-[ ] Macau
+[x] Macau
 [ ] Portugal
 
 
 
 Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 [ ] 12:06
-[ ] 6:20
+[x] 6:20
 [ ] 2:20
 [ ] 6:02
 [ ] 12:20
@@ -256,7 +256,7 @@ Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
  
 
 **Questão 29**: Quem é o autor de "O Príncipe"?
-[ ] Maquiavel
+[x] Maquiavel
 [ ] Antoine de Saint-Exupéry
 [ ] Montesquieu
 [ ] Thomas Hobbes
@@ -265,7 +265,7 @@ Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 
 
 Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do presente do indicativo?
-[ ] Eu caibo
+[x] Eu caibo
 [ ] Ele cabe
 [ ] Que eu caiba
 [ ] Eu cabo
@@ -274,7 +274,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 
 **Questão 31**: Quais destas construções famosas ficam nos Estados Unidos?
-[ ] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
+[x] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
 [ ] Estátua da Liberdade, Big Ben e The High Line
 [ ] Angkor Wat, Taj Mahal e Skywalk no Grand Canyon
 [ ] Lincoln Memorial, Sidney Opera House e Burj Khalifa
