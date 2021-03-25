@@ -50,7 +50,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 6**: Qual o grupo em que todas as palavras foram escritas corretamente?
 [ ] Asterístico, beneficiente, meteorologia, entertido
-[ ] Asterisco, beneficente, meteorologia, entretido
+[x] Asterisco, beneficente, meteorologia, entretido
 [ ] Asterisco, beneficente, metereologia, entretido
 [ ] Asterístico, beneficiente, metereologia, entretido
 [ ] Asterisco, beneficiente, metereologia, entretido
@@ -58,7 +58,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
-[ ] O Senhor dos Anéis
+[x] O Senhor dos Anéis
 [ ] Dom Quixote
 [ ] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
@@ -69,7 +69,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[ ] Infinitas
+[x] Infinitas
 [ ] Vinte
 [ ] Milhares
 
@@ -78,14 +78,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 9**: Atualmente, quantos elementos químicos a tabela periódica possui?
 [ ] 113
 [ ] 109
-[ ] 108
+[x] 108
 [ ] 118
 [ ] 92
 
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[ ] Japão e Serra Leoa
+[x] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -97,7 +97,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Legenda
 [ ] Conto
 [ ] História
-[ ] Lenda
+[x] Lenda
 [ ] Legendário
 
  
@@ -107,7 +107,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 10
 [ ] 9
 [ ] 5
-[ ] 7
+[x] 7
 
 
 
@@ -139,7 +139,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 16**: Quanto tempo a luz do Sol demora para chegar à Terra?
-[ ] 12 minutos
+[x] 12 minutos
 [ ] 1 dia
 [ ] 12 horas
 [ ] 8 minutos
@@ -161,7 +161,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
-[ ] Argentina
+[x] Argentina
 
  
 
@@ -194,7 +194,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 22**: Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?
 [ ] Caipora
-[ ] Saci
+[x] Saci
 [ ] Lobisomem
 [ ] Boitatá
 [ ] Negrinho do Pastoreio
@@ -206,7 +206,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Paleolítico
 [ ] Idade dos Metais
 [ ] Período da Pedra Polida
-[ ] Idade Média
+[x] Idade Média
 
 
 
@@ -229,7 +229,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 26**: Qual a velocidade da luz?
-[ ] 300 000 000 metros por segundo (m/s)
+[x] 300 000 000 metros por segundo (m/s)
 [ ] 150 000 000 metros por segundo (m/s)
 [ ] 199 792 458 metros por segundo (m/s)
 [ ] 299 792 458 metros por segundo (m/s)
@@ -240,15 +240,15 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 27**: Em qual local da ásia o português é língua oficial?
 [ ] índia
 [ ] Filipinas
-[ ] Moçambique
+[x] Moçambique
 [ ] Macau
 [ ] Portugal
 
 
 
-Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
+**Questão 28**. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 [ ] 12:06
-[ ] 6:20
+[x] 6:20
 [ ] 2:20
 [ ] 6:02
 [ ] 12:20
@@ -264,7 +264,7 @@ Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 
 
 
-Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do presente do indicativo?
+**Questão 30**. Como é a conjugação do verbo caber na 1a. pessoa do singular do presente do indicativo?
 [ ] Eu caibo
 [ ] Ele cabe
 [ ] Que eu caiba
@@ -274,7 +274,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 
 **Questão 31**: Quais destas construções famosas ficam nos Estados Unidos?
-[ ] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
+[X] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
 [ ] Estátua da Liberdade, Big Ben e The High Line
 [ ] Angkor Wat, Taj Mahal e Skywalk no Grand Canyon
 [ ] Lincoln Memorial, Sidney Opera House e Burj Khalifa
@@ -285,7 +285,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 32**: Quais destas doenças são sexualmente transmissíveis?
 [ ] Aids, tricomoníase e ebola
 [ ] Chikungunya, aids e herpes genital
-[ ] Gonorreia, clamídia e sífilis
+[X] Gonorreia, clamídia e sífilis
 [ ] Botulismo, cistite e gonorreia
 [ ] Hepatite B, febre tifoide e hanseníase
 
@@ -305,7 +305,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] é um homem mal.
 [ ] Esse é o mal de todos.
 [ ] Mal falou nele, o fulano apareceu.
-[ ] é um mau vendedor.
+[X] é um mau vendedor.
 
  
 
@@ -341,14 +341,14 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Manuel Francisco Lisboa
 [ ] Alex Francisco Lisboa
 [ ] Francisco Antônio Lisboa
-[ ] Antônio Francisco Lisboa
+[X] Antônio Francisco Lisboa
 
  
 
 **Questão 39**: Júpiter e Plutão são os correlatos romanos de quais deuses gregos?
 [ ] Ares e Hermes
 [ ] Cronos e Apolo
-[ ] Zeus e Hades
+[X] Zeus e Hades
 [ ] Dionísio e Deméter
 [ ] Zeus e Ares
 
@@ -364,7 +364,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 
 **Questão 41**: Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?
-[ ] Igualdade das raças
+[X] Igualdade das raças
 [ ] Justiça para os menos favorecidos
 [ ] Intolerância religiosa
 [ ] Prêmio Nobel da Paz
@@ -386,7 +386,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Acordo entre países europeus acerca da imigração e Acordo econômico entre Inglaterra, Rússia a França
 [ ] Acordo entre vários países acerca das consequências do aquecimento global e Acordo de cooperação financeira internacional entre as três maiores potências mundiais
 [ ] Acordo de cooperação financeira internacional entre as três maiores potências mundiais e Acordo entre vários países acerca das consequências do aquecimento global
-[ ] Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra
+[X] Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra
 
 
 
@@ -400,7 +400,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
  
 
 **Questão 45**: Quais os principais heterônimos de Fernando Pessoa?
-[ ] Alberto Caeiro, Ricardo Reis e álvaro de Campos
+[X] Alberto Caeiro, Ricardo Reis e álvaro de Campos
 [ ] Ariano Suassuna, Raul Bopp e Quincas Borba
 [ ] Bento Teixeira, Ricardo Reis e Haroldo de Campos
 [ ] Alberto Caeiro, Ricardo Leite e Augusto de Campos
@@ -411,14 +411,14 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 46**: Qual a religião monoteísta que conta com o maior número de adeptos no mundo?
 [ ] Judaísmo
 [ ] Zoroastrismo
-[x] Islamismo
-[ ] Cristianismo
+[ ] Islamismo
+[X] Cristianismo
 [ ] Hinduísmo
 
 
 
 **Questão 47**: Qual desses filmes foi baseado na obra de Shakespeare?
-[ ] Muito Barulho por Nada (2012)
+[X] Muito Barulho por Nada (2012)
 [ ] Capitães de Areia (2011)
 [ ] A Dama das Camélias (1936)
 [ ] A Revolução dos Bichos (1954)
@@ -431,7 +431,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Buzz Aldrin, em 1969
 [ ] Charles Conrad, em 1969
 [ ] Charles Duke, em 1971
-[x] Neil Armstrong, em 1969.
+[X] Neil Armstrong, em 1969.
 
  
 
