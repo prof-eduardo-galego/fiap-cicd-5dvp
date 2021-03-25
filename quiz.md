@@ -7,7 +7,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Tem entre 2 a 4 litros. São retirados 450 mililitros
 [ ] Tem entre 4 a 6 litros. São retirados 450 mililitros
 [ ] Tem 10 litros. São retirados 2 litros
-[ ] Tem 7 litros. São retirados 1,5 litros
+[x] Tem 7 litros. São retirados 1,5 litros
 [ ] Tem 0,5 litros. São retirados 0,5 litros
 
 
@@ -15,7 +15,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 2**: De quem é a famosa frase "Penso, logo existo"?
 [ ] Platão
 [ ] Galileu Galilei
-[ ] Descartes
+[x] Descartes
 [ ] Sócrates
 [ ] Francis Bacon
 
@@ -23,7 +23,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 3**: De onde é a invenção do chuveiro elétrico?
 [ ] França
-[ ] Inglaterra
+[x] Inglaterra
 [ ] Brasil
 [ ] Austrália
 [ ] Itália
@@ -31,7 +31,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 4**: Quais o menor e o maior país do mundo?
-[ ] Vaticano e Rússia
+[x] Vaticano e Rússia
 [ ] Nauru e China
 [ ] Mônaco e Canadá
 [ ] Malta e Estados Unidos
@@ -44,13 +44,13 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Jacinto Anjos
 [ ] Getúlio Vargas
 [ ] João Figueiredo
-[ ] João Goulart
+[x] João Goulart
 
  
 
 **Questão 6**: Qual o grupo em que todas as palavras foram escritas corretamente?
 [ ] Asterístico, beneficiente, meteorologia, entertido
-[ ] Asterisco, beneficente, meteorologia, entretido
+[x] Asterisco, beneficente, meteorologia, entretido
 [ ] Asterisco, beneficente, metereologia, entretido
 [ ] Asterístico, beneficiente, metereologia, entretido
 [ ] Asterisco, beneficiente, metereologia, entretido
@@ -59,7 +59,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
 [ ] O Senhor dos Anéis
-[ ] Dom Quixote
+[x] Dom Quixote
 [ ] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
 [ ] Um Conto de Duas Cidades
@@ -69,7 +69,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[ ] Infinitas
+[x] Infinitas
 [ ] Vinte
 [ ] Milhares
 
@@ -78,14 +78,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 9**: Atualmente, quantos elementos químicos a tabela periódica possui?
 [ ] 113
 [ ] 109
-[ ] 108
+[x] 108
 [ ] 118
 [ ] 92
 
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[ ] Japão e Serra Leoa
+[x] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -97,7 +97,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Legenda
 [ ] Conto
 [ ] História
-[ ] Lenda
+[x] Lenda
 [ ] Legendário
 
  
@@ -107,7 +107,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 10
 [ ] 9
 [ ] 5
-[ ] 7
+[x] 7
 
 
 
@@ -116,7 +116,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Miguel de Cervantes, Gregório de Matos e Danthe Alighieri
 [ ] Padre Antônio Vieira, Padre Manuel de Melo e Gregório de Matos
 [ ] Castro Alves, Bento Teixeira e Manuel Botelho de Oliveira
-[ ] álvares de Azevedo, Gregório de Matos e Bento Teixeira
+[x] álvares de Azevedo, Gregório de Matos e Bento Teixeira
 
 
  
@@ -125,13 +125,13 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Proclamação da República e Dia Nacional da Consciência Negra
 [ ] Dia do Médico e Dia de São Lucas
 [ ] Dia de Finados e Dia Nacional do Livro
-[ ] Black Friday e Dia da árvore
+[x] Black Friday e Dia da árvore
 
 
  
 **Questão 15**: Quem pintou "Guernica"?
 [ ] Paul Cézanne
-[ ] Pablo Picasso
+[x] Pablo Picasso
 [ ] Diego Rivera
 [ ] Tarsila do Amaral
 [ ] Salvador Dalí
@@ -142,7 +142,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 12 minutos
 [ ] 1 dia
 [ ] 12 horas
-[ ] 8 minutos
+[x] 8 minutos
 [ ] segundos
 
 
@@ -150,7 +150,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 17**: Qual a tradução da frase "Fabiano cogió su saco antes de salir"?
 [ ] Fabiano coseu seu paletó antes de sair
 [ ] Fabiano fechou o saco antes de sair
-[ ] Fabiano pegou seu paletó antes de sair
+[x] Fabiano pegou seu paletó antes de sair
 [ ] Fabiano cortou o saco antes de cair
 [ ] Fabiano rasgou seu paletó antes de cair
 
@@ -160,7 +160,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Cubana
 [ ] Peruana
 [ ] Panamenha
-[ ] Boliviana
+[x] Boliviana
 [ ] Argentina
 
  
@@ -168,7 +168,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 19**: Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:
 [ ] Tubarão branco, crocodilo e sucuri
 [ ] Tigre, gavião e orca
-[ ] Hiena, urso branco e lobo cinzento
+[x] Hiena, urso branco e lobo cinzento
 [ ] Orca, onça e tarântula
 [ ] Leão, tubarão branco e urso cinzento
 
@@ -177,7 +177,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 20**: Qual a altura da rede de vôlei nos jogos masculino e feminino?
 [ ] 2,4 para ambos
 [ ] 2,5 m e 2,0 m
-[ ] 1,8 m e 1,5 m
+[x] 1,8 m e 1,5 m
 [ ] 2,45 m e 2,15 m
 [ ] 2,43 m e 2,24 m
 
