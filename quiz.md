@@ -31,7 +31,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 4**: Quais o menor e o maior país do mundo?
-[ ] Vaticano e Rússia
+[x] Vaticano e Rússia
 [ ] Nauru e China
 [ ] Mônaco e Canadá
 [ ] Malta e Estados Unidos
@@ -60,7 +60,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
 [ ] O Senhor dos Anéis
 [ ] Dom Quixote
-[ ] O Pequeno Príncipe
+[x] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
 [ ] Um Conto de Duas Cidades
 
@@ -69,7 +69,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[ ] Infinitas
+[x] Infinitas
 [ ] Vinte
 [ ] Milhares
 
@@ -79,13 +79,13 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 113
 [ ] 109
 [ ] 108
-[ ] 118
+[x] 118
 [ ] 92
 
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[ ] Japão e Serra Leoa
+[x] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -97,7 +97,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Legenda
 [ ] Conto
 [ ] História
-[ ] Lenda
+[x] Lenda
 [ ] Legendário
 
  
@@ -105,7 +105,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 12**: Qual o número mínimo de jogadores numa partida de futebol?
 [ ] 8
 [ ] 10
-[ ] 9
+[x] 9
 [ ] 5
 [ ] 7
 
@@ -121,7 +121,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
  
 **Questão 14**: Quais as duas datas que são comemoradas em novembro?
-[ ] Independência do Brasil e Dia da Bandeira
+[x] Independência do Brasil e Dia da Bandeira
 [ ] Proclamação da República e Dia Nacional da Consciência Negra
 [ ] Dia do Médico e Dia de São Lucas
 [ ] Dia de Finados e Dia Nacional do Livro
@@ -142,7 +142,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 12 minutos
 [ ] 1 dia
 [ ] 12 horas
-[ ] 8 minutos
+[x] 8 minutos
 [ ] segundos
 
 
@@ -161,14 +161,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
-[ ] Argentina
+[x] Argentina
 
  
 
 **Questão 19**: Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:
 [ ] Tubarão branco, crocodilo e sucuri
 [ ] Tigre, gavião e orca
-[ ] Hiena, urso branco e lobo cinzento
+[x] Hiena, urso branco e lobo cinzento
 [ ] Orca, onça e tarântula
 [ ] Leão, tubarão branco e urso cinzento
 
@@ -179,7 +179,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 2,5 m e 2,0 m
 [ ] 1,8 m e 1,5 m
 [ ] 2,45 m e 2,15 m
-[ ] 2,43 m e 2,24 m
+[x] 2,43 m e 2,24 m
 
  
 
@@ -193,7 +193,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 22**: Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?
-[ ] Caipora
+[x] Caipora
 [ ] Saci
 [ ] Lobisomem
 [ ] Boitatá
@@ -203,7 +203,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 23**: Em que período da pré-história o fogo foi descoberto?
 [ ] Neolítico
-[ ] Paleolítico
+[x] Paleolítico
 [ ] Idade dos Metais
 [ ] Período da Pedra Polida
 [ ] Idade Média
@@ -220,7 +220,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 25**: Qual a montanha mais alta do Brasil?
-[ ] Pico da Neblina
+[x] Pico da Neblina
 [ ] Pico Paraná
 [ ] Monte Roraima
 [ ] Pico Maior de Friburgo
@@ -232,7 +232,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 300 000 000 metros por segundo (m/s)
 [ ] 150 000 000 metros por segundo (m/s)
 [ ] 199 792 458 metros por segundo (m/s)
-[ ] 299 792 458 metros por segundo (m/s)
+[x] 299 792 458 metros por segundo (m/s)
 [ ] 30 000 000 metros por segundo (m/s)
 
  
@@ -256,7 +256,7 @@ Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
  
 
 **Questão 29**: Quem é o autor de "O Príncipe"?
-[ ] Maquiavel
+[x] Maquiavel
 [ ] Antoine de Saint-Exupéry
 [ ] Montesquieu
 [ ] Thomas Hobbes
@@ -285,7 +285,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 **Questão 32**: Quais destas doenças são sexualmente transmissíveis?
 [ ] Aids, tricomoníase e ebola
 [ ] Chikungunya, aids e herpes genital
-[ ] Gonorreia, clamídia e sífilis
+[x] Gonorreia, clamídia e sífilis
 [ ] Botulismo, cistite e gonorreia
 [ ] Hepatite B, febre tifoide e hanseníase
 
@@ -355,7 +355,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
  
 
 **Questão 40**: Qual o maior animal terrestre?
-[ ] Baleia Azul
+[x] Baleia Azul
 [ ] Dinossauro
 [ ] Elefante africano
 [ ] Tubarão Branco
@@ -377,7 +377,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 [ ] Angela Merkel
 [ ] Margaret Thatcher
 [ ] Hillary Clinton
-[ ] Christine Lagarde
+[x] Christine Lagarde
 
 
 
