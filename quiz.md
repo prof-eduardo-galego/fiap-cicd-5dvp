@@ -5,7 +5,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 1**: Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?
 [ ] Tem entre 2 a 4 litros. São retirados 450 mililitros
-[ ] Tem entre 4 a 6 litros. São retirados 450 mililitros
+[x] Tem entre 4 a 6 litros. São retirados 450 mililitros
 [ ] Tem 10 litros. São retirados 2 litros
 [ ] Tem 7 litros. São retirados 1,5 litros
 [ ] Tem 0,5 litros. São retirados 0,5 litros
@@ -15,7 +15,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 2**: De quem é a famosa frase "Penso, logo existo"?
 [ ] Platão
 [ ] Galileu Galilei
-[ ] Descartes
+[x] Descartes
 [ ] Sócrates
 [ ] Francis Bacon
 
@@ -24,14 +24,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 3**: De onde é a invenção do chuveiro elétrico?
 [ ] França
 [ ] Inglaterra
-[ ] Brasil
+[x] Brasil
 [ ] Austrália
 [ ] Itália
 
  
 
 **Questão 4**: Quais o menor e o maior país do mundo?
-[ ] Vaticano e Rússia
+[x] Vaticano e Rússia
 [ ] Nauru e China
 [ ] Mônaco e Canadá
 [ ] Malta e Estados Unidos
@@ -44,13 +44,13 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Jacinto Anjos
 [ ] Getúlio Vargas
 [ ] João Figueiredo
-[ ] João Goulart
+[x] João Goulart
 
  
 
 **Questão 6**: Qual o grupo em que todas as palavras foram escritas corretamente?
 [ ] Asterístico, beneficiente, meteorologia, entertido
-[ ] Asterisco, beneficente, meteorologia, entretido
+[x] Asterisco, beneficente, meteorologia, entretido
 [ ] Asterisco, beneficente, metereologia, entretido
 [ ] Asterístico, beneficiente, metereologia, entretido
 [ ] Asterisco, beneficiente, metereologia, entretido
@@ -58,9 +58,9 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 7**: Qual o livro mais vendido no mundo a seguir à Bíblia?
-[ ] O Senhor dos Anéis
+[x] O Senhor dos Anéis
 [ ] Dom Quixote
-[X] O Pequeno Príncipe
+[ ] O Pequeno Príncipe
 [ ] Ela, a Feiticeira
 [ ] Um Conto de Duas Cidades
 
@@ -69,7 +69,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 8**: Quantas casas decimais tem o número pi?
 [ ] Duas
 [ ] Centenas
-[X] Infinitas
+[x] Infinitas
 [ ] Vinte
 [ ] Milhares
 
@@ -78,14 +78,14 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 9**: Atualmente, quantos elementos químicos a tabela periódica possui?
 [ ] 113
 [ ] 109
-[ ] 108
+[x] 108
 [ ] 118
 [ ] 92
 
 
 
 **Questão 10**: Quais os países que têm a maior e a menor expectativa de vida do mundo?
-[ ] Japão e Serra Leoa
+[x] Japão e Serra Leoa
 [ ] Austrália e Afeganistão
 [ ] Itália e Chade
 [ ] Brasil e Congo
@@ -97,7 +97,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Legenda
 [ ] Conto
 [ ] História
-[ ] Lenda
+[x] Lenda
 [ ] Legendário
 
  
@@ -107,7 +107,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] 10
 [ ] 9
 [ ] 5
-[ ] 7
+[x] 7
 
 
 
@@ -139,7 +139,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
  
 
 **Questão 16**: Quanto tempo a luz do Sol demora para chegar à Terra?
-[ ] 12 minutos
+[x] 12 minutos
 [ ] 1 dia
 [ ] 12 horas
 [ ] 8 minutos
@@ -161,7 +161,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Peruana
 [ ] Panamenha
 [ ] Boliviana
-[X] Argentina
+[x] Argentina
 
  
 
@@ -193,7 +193,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 **Questão 22**: Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?
 [ ] Caipora
-[ ] Saci
+[x] Saci
 [ ] Lobisomem
 [ ] Boitatá
 [ ] Negrinho do Pastoreio
@@ -205,7 +205,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 [ ] Paleolítico
 [ ] Idade dos Metais
 [ ] Período da Pedra Polida
-[ ] Idade Média
+[x] Idade Média
 
 
 
@@ -228,7 +228,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 
 **Questão 26**: Qual a velocidade da luz?
-[ ] 300 000 000 metros por segundo (m/s)
+[x] 300 000 000 metros por segundo (m/s)
 [ ] 150 000 000 metros por segundo (m/s)
 [ ] 199 792 458 metros por segundo (m/s)
 [ ] 299 792 458 metros por segundo (m/s)
@@ -239,7 +239,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 **Questão 27**: Em qual local da ásia o português é língua oficial?
 [ ] índia
 [ ] Filipinas
-[ ] Moçambique
+[x] Moçambique
 [ ] Macau
 [ ] Portugal
 
@@ -247,7 +247,7 @@ Extraído de https://www.todamateria.com.br/perguntas-e-respostas-de-conheciment
 
 Questão 28. "It is six twenty" ou "twenty past six". Que horas são em inglês?
 [ ] 12:06
-[X] 6:20
+[x] 6:20
 [ ] 2:20
 [ ] 6:02
 [ ] 12:20
@@ -273,7 +273,7 @@ Questão 30. Como é a conjugação do verbo caber na 1a. pessoa do singular do 
 
 
 **Questão 31**: Quais destas construções famosas ficam nos Estados Unidos?
-[X] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
+[x] Estátua da Liberdade, Golden Gate Bridge e Empire State Building
 [ ] Estátua da Liberdade, Big Ben e The High Line
 [ ] Angkor Wat, Taj Mahal e Skywalk no Grand Canyon
 [ ] Lincoln Memorial, Sidney Opera House e Burj Khalifa
